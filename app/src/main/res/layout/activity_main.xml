@@ -13,4 +13,11 @@
         android:layout_height="wrap_content"
         android:text="Button"
         android:onClick="goToPage"/>
+
+    <Button
+        android:id="@+id/go_to_epub_book"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Button"
+        android:onClick="goToEpubBook"/>
 </LinearLayout>

@@ -77,7 +77,7 @@ public class PageActivity extends AppCompatActivity {
     public void setColors(int bg_bg, int bg_txt){
         final LinearLayout bg = (LinearLayout) findViewById(R.id.container);
         final TextView textbook = (TextView)findViewById(R.id.textbook);
-textbook.setText(bg_state);
+        textbook.setText(bg_state);
         bg.setBackgroundColor(bg_bg);
         textbook.setBackgroundColor(bg_bg);
         textbook.setTextColor(bg_txt);

@@ -48,5 +48,4 @@ public class ActivityActivity extends AppCompatActivity {
 //        int id = getResources().getIdentifier(page, "String","com.example.bookapplication");
 //        return page;
 //    }
-
 }
