@@ -39,9 +39,9 @@ public class MainActivity extends AppCompatActivity {
             e.printStackTrace();
         }
 
-        String str_data = new String(buffer);
-         File file = getFileStreamPath("astronomy.epub");
-         Log.d("mytag: ", "file: " + file.getAbsolutePath()+"   ;   "+str_data);
+        //String str_data = new String(buffer);
+         //File file = getFileStreamPath("astronomy.epub");
+         //Log.d("mytag: ", "file: " + file.getAbsolutePath()+"   ;   "+str_data);
 
         final Button go_to_page = (Button)findViewById(R.id.go_to_page);
     }
