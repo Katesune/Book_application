@@ -9,6 +9,7 @@ import android.os.Bundle;
 import android.util.Log;
 import android.view.View;
 import android.widget.Button;
+import android.widget.ImageButton;
 import android.widget.Toast;
 
 import java.io.BufferedReader;
@@ -43,7 +44,7 @@ public class MainActivity extends AppCompatActivity {
          //File file = getFileStreamPath("astronomy.epub");
          //Log.d("mytag: ", "file: " + file.getAbsolutePath()+"   ;   "+str_data);
 
-        final Button go_to_page = (Button)findViewById(R.id.go_to_page);
+        //final ImageButton go_to_page = (ImageButton) findViewById(R.id.go_to_page);
     }
 
     public void goToPage(View v) {

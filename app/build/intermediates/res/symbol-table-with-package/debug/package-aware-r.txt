@@ -1749,6 +1749,7 @@ drawable font_text_selector
 drawable green_border_background
 drawable ic_____
 drawable ic_______
+drawable ic_button_1
 drawable ic_clock_black_24dp
 drawable ic_close_green_24dp
 drawable ic_drawer
@@ -1757,6 +1758,7 @@ drawable ic_fast_rewind
 drawable ic_format_font_black_24dp
 drawable ic_format_font_black_36dp
 drawable ic_format_underlined
+drawable ic_guide
 drawable ic_highlight_delete
 drawable ic_keyboard_black_24dp
 drawable ic_launcher_background
@@ -1774,6 +1776,7 @@ drawable ic_play
 drawable ic_plus_black_24dp
 drawable ic_plus_white_24dp
 drawable ic_search
+drawable ic_test
 drawable ic_volume_gray_24dp
 drawable icon_font
 drawable icon_moon_normal
@@ -2057,7 +2060,8 @@ id ghost_view
 id ghost_view_holder
 id go_to_activity
 id go_to_epub_book
-id go_to_page
+id go_to_guide
+id go_to_test
 id gone
 id graph
 id graph_wrap
@@ -2313,6 +2317,8 @@ id textView
 id textViewCount
 id textViewResult
 id textViewTitle
+id text_1
+id text_2
 id text_input_end_icon
 id text_input_error_icon
 id text_input_start_icon
